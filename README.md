@@ -1,4 +1,4 @@
-# CIPHER-X
+## CIPHER-X
 <=============>
 
 
@@ -9,5 +9,7 @@
 [2] => cd PhiShing
 
 [3] => chmod +x install.sh
+
+[4] => ./install
 
 # <=============>
